@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\cambiomoneda\cambiomoneda\bin\Debug\netcoreapp3.1\cambiomoneda.exe
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\cambiomoneda\cambiomoneda\bin\Debug\netcoreapp3.1\cambiomoneda.deps.json
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\cambiomoneda\cambiomoneda\bin\Debug\netcoreapp3.1\cambiomoneda.runtimeconfig.json
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\cambiomoneda\cambiomoneda\bin\Debug\netcoreapp3.1\cambiomoneda.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\cambiomoneda\cambiomoneda\bin\Debug\netcoreapp3.1\cambiomoneda.dll
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\cambiomoneda\cambiomoneda\bin\Debug\netcoreapp3.1\cambiomoneda.pdb
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\cambiomoneda\cambiomoneda\obj\Debug\netcoreapp3.1\cambiomoneda.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\cambiomoneda\cambiomoneda\obj\Debug\netcoreapp3.1\cambiomoneda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\cambiomoneda\cambiomoneda\obj\Debug\netcoreapp3.1\cambiomoneda.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\cambiomoneda\cambiomoneda\obj\Debug\netcoreapp3.1\cambiomoneda.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\cambiomoneda\cambiomoneda\obj\Debug\netcoreapp3.1\cambiomoneda.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\cambiomoneda\cambiomoneda\obj\Debug\netcoreapp3.1\cambiomoneda.dll
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\cambiomoneda\cambiomoneda\obj\Debug\netcoreapp3.1\cambiomoneda.pdb
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\cambiomoneda\cambiomoneda\obj\Debug\netcoreapp3.1\cambiomoneda.genruntimeconfig.cache

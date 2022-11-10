@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.exe
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.deps.json
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.runtimeconfig.json
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.dll
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\holamundo\holamundo\bin\Debug\netcoreapp3.1\holamundo.pdb
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.dll
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.pdb
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\holamundo\holamundo\obj\Debug\netcoreapp3.1\holamundo.genruntimeconfig.cache

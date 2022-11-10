@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\prestamo\prestamo\bin\Debug\netcoreapp3.1\prestamo.exe
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\prestamo\prestamo\bin\Debug\netcoreapp3.1\prestamo.deps.json
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\prestamo\prestamo\bin\Debug\netcoreapp3.1\prestamo.runtimeconfig.json
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\prestamo\prestamo\bin\Debug\netcoreapp3.1\prestamo.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\prestamo\prestamo\bin\Debug\netcoreapp3.1\prestamo.dll
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\prestamo\prestamo\bin\Debug\netcoreapp3.1\prestamo.pdb
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\prestamo\prestamo\obj\Debug\netcoreapp3.1\prestamo.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\prestamo\prestamo\obj\Debug\netcoreapp3.1\prestamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\prestamo\prestamo\obj\Debug\netcoreapp3.1\prestamo.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\prestamo\prestamo\obj\Debug\netcoreapp3.1\prestamo.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\prestamo\prestamo\obj\Debug\netcoreapp3.1\prestamo.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\prestamo\prestamo\obj\Debug\netcoreapp3.1\prestamo.dll
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\prestamo\prestamo\obj\Debug\netcoreapp3.1\prestamo.pdb
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\prestamo\prestamo\obj\Debug\netcoreapp3.1\prestamo.genruntimeconfig.cache

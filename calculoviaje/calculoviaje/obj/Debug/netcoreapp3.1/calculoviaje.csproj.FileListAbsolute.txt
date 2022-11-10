@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\calculoviaje\calculoviaje\obj\Debug\netcoreapp3.1\calculoviaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\calculoviaje\calculoviaje\obj\Debug\netcoreapp3.1\calculoviaje.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\calculoviaje\calculoviaje\obj\Debug\netcoreapp3.1\calculoviaje.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\calculoviaje\calculoviaje\obj\Debug\netcoreapp3.1\calculoviaje.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\calculoviaje\calculoviaje\bin\Debug\netcoreapp3.1\calculoviaje.exe
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\calculoviaje\calculoviaje\bin\Debug\netcoreapp3.1\calculoviaje.deps.json
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\calculoviaje\calculoviaje\bin\Debug\netcoreapp3.1\calculoviaje.runtimeconfig.json
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\calculoviaje\calculoviaje\bin\Debug\netcoreapp3.1\calculoviaje.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\calculoviaje\calculoviaje\bin\Debug\netcoreapp3.1\calculoviaje.dll
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\calculoviaje\calculoviaje\bin\Debug\netcoreapp3.1\calculoviaje.pdb
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\calculoviaje\calculoviaje\obj\Debug\netcoreapp3.1\calculoviaje.dll
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\calculoviaje\calculoviaje\obj\Debug\netcoreapp3.1\calculoviaje.pdb
+C:\Users\pedro\OneDrive\Escritorio\programas de consola\calculoviaje\calculoviaje\obj\Debug\netcoreapp3.1\calculoviaje.genruntimeconfig.cache
